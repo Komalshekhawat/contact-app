@@ -17,7 +17,6 @@
         android:theme="@style/Theme.ContactApp">
 
         <activity android:name=".displayContactDetails" />
-        <activity android:name=".login" />
         <activity android:name=".splashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
